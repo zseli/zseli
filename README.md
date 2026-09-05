@@ -35,7 +35,7 @@ More projects coming soon.
 
 ### 🌐 Find Me
 
- [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/seli-sinha-4a93b122a/)) 
+ [LinkedIn](https://www.linkedin.com/in/seli-sinha-4a93b122a/)
 
 ---
 
