@@ -36,6 +36,7 @@ More projects coming soon.
 ### 🌐 Find Me
 
  [LinkedIn](https://www.linkedin.com/in/seli-sinha-4a93b122a/)
+ [Leetcode](https://leetcode.com/u/zseli/)
 
 ---
 
