@@ -4,18 +4,18 @@
 
 💻 I work across **backend engineering, distributed systems, APIs, messaging, cloud and DevOps**.
 
-🌱 Currently exploring **AI, frontend development, system design, and whatever else catches my attention**.
+🌱  Exploring **AI, frontend development, system design, and whatever else catches my attention**.
 
 🔭 Building personal projects to experiment with different technologies and turn things I learn into something tangible.
 
 👩🏻 **Pronouns:** she/her
 
 🛠️ **Things I work with:**
-`Java` `Python` `Spring Boot` `Spring WebFlux` `Kafka` `RabbitMQ` `PostgreSQL` `Redis` `Docker` `Kubernetes` `Azure` `OpenShift`
+`Java` `Python` `Spring Boot` `Spring WebFlux` `Kafka` `RabbitMQ` `PostgreSQL` `Redis` `Docker` `Kubernetes` `Azure` 
 
 ### 🚧 Currently Building
 
-**Personal Website** - My first attempt at building a personal website — partly to have a place for my work and partly to explore frontend development.
+**Personal Website** - My first attempt at building a personal website... partly to have a place for my work and partly to explore frontend development.
 
 More projects coming soon.
 
