@@ -15,7 +15,7 @@
 
 ### 🚧 Currently Building
 
-**Personal Website** - My first attempt at building a personal website... partly to have a place for my work and partly to explore frontend development.
+**[Personal Website](https://selisinha.vercel.app/)** - My first attempt at building a personal website... partly to have a place for my work and partly to explore frontend development.
 
 More projects coming soon.
 
